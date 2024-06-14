@@ -77,12 +77,12 @@ class BaseTest{
  
 		switch (browser.toLowerCase()) {
 		case "chrome":
-			WebDriverManager.chromedriver().setup();
-			ChromeOptions options=new ChromeOptions();
-			if(headless) {
-				options.addArguments("--headless");
-			}
-			driver = new ChromeDriver(options);
+			// WebDriverManager.chromedriver().setup();
+			// ChromeOptions options=new ChromeOptions();
+			// if(headless) {
+			// 	options.addArguments("--headless");
+			// }
+			driver = new ChromeDriver();
 			break;
 		case "firefox":
 			WebDriverManager.firefoxdriver().setup();
