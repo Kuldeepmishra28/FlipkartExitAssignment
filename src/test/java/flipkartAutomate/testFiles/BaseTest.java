@@ -85,12 +85,12 @@ class BaseTest{
 			driver = new ChromeDriver();
 			break;
 		case "firefox":
-			WebDriverManager.firefoxdriver().setup();
-			FirefoxOptions firefoxOptions=new FirefoxOptions();
-			if(headless) {
-				firefoxOptions.addArguments("--headless");
-			}
-			driver = new FirefoxDriver(firefoxOptions);
+			// WebDriverManager.firefoxdriver().setup();
+			// FirefoxOptions firefoxOptions=new FirefoxOptions();
+			// if(headless) {
+			// 	firefoxOptions.addArguments("--headless");
+			// }
+			driver = new FirefoxDriver();
 			break;
 		case "ie":
 			WebDriverManager.iedriver().setup();
