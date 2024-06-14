@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Command line suite]" verbose="0">
+  <test thread-count="5" name="Command line test(failed)" verbose="0">
+    <classes>
+      <class name="flipkartAutomate.testFiles.CartLoginTest">
+        <methods>
+          <include name="beforesuite"/>
+          <include name="teardown"/>
+          <include name="testCartLogin"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- flipkartAutomate.testFiles.CartLoginTest -->
+      <class name="flipkartAutomate.testFiles.CategoryDropdownTest">
+        <methods>
+          <include name="beforesuite"/>
+          <include name="testCategory"/>
+          <include name="teardown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- flipkartAutomate.testFiles.CategoryDropdownTest -->
+      <class name="flipkartAutomate.testFiles.RemoveFromCartTest">
+        <methods>
+          <include name="beforesuite"/>
+          <include name="testRemoveFromCart"/>
+          <include name="teardown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- flipkartAutomate.testFiles.RemoveFromCartTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->

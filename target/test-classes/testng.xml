@@ -1,0 +1,26 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Flipkart Automation Suite" parallel="false">
+    <test name="Flipkart Tests">
+        
+        <classes>
+            <class name="flipkartAutomate.testFiles.LoginTest" />
+            <class name="flipkartAutomate.testFiles.SignUpTest" />
+            <class name="flipkartAutomate.testFiles.PincodeTest" />
+            <class name="flipkartAutomate.testFiles.SellerTest" />
+            <class name="flipkartAutomate.testFiles.RegisterSellerTest" />
+            <class name="flipkartAutomate.testFiles.AddToCartTest" />
+            <class name="flipkartAutomate.testFiles.CartLoginTest" />
+            <class name="flipkartAutomate.testFiles.CategoryDropdownTest" />
+            <class name="flipkartAutomate.testFiles.FavouritesProduct" />
+            <class name="flipkartAutomate.testFiles.ForgetPasswordTest" />
+            <class name="flipkartAutomate.testFiles.HelplineFunctionalityTest" />
+            <class name="flipkartAutomate.testFiles.ProductDetailTest" />
+            <class name="flipkartAutomate.testFiles.ProductSearchTest" />
+            <class name="flipkartAutomate.testFiles.SellerTest" />
+            <class name="flipkartAutomate.testFiles.SignUpTest" />
+            <class name="flipkartAutomate.testFiles.LogoVisibility"/>
+            <class name="flipkartAutomate.testFiles.FlipkartAdvertiseTest"/>
+                        
+        </classes>
+    </test>
+</suite>

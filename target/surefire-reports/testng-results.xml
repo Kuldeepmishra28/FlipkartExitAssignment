@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="20" passed="20" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-14T13:05:43 IST" name="Command line suite" finished-at="2024-06-14T13:09:17 IST" duration-ms="213651">
+    <groups>
+    </groups>
+    <test started-at="2024-06-14T13:05:43 IST" name="Command line test" finished-at="2024-06-14T13:09:17 IST" duration-ms="213651">
+      <class name="flipkartAutomate.testFiles.ProductDetailTest">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:flipkartAutomate.testFiles.ProductDetailTest@5bfa8cc5]" started-at="2024-06-14T13:07:36 IST" name="setup" finished-at="2024-06-14T13:07:40 IST" duration-ms="3533" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void flipkartAutomate.testFiles.ProductDetailTest.testProductDetails()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testProductDetails()[pri:0, instance:flipkartAutomate.testFiles.ProductDetailTest@5bfa8cc5]" started-at="2024-06-14T13:07:40 IST" name="testProductDetails" finished-at="2024-06-14T13:07:48 IST" duration-ms="8133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testProductDetails -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:flipkartAutomate.testFiles.ProductDetailTest@5bfa8cc5]" started-at="2024-06-14T13:07:48 IST" name="teardown" finished-at="2024-06-14T13:07:48 IST" duration-ms="443" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testProductDetails status=SUCCESS method=ProductDetailTest.testProductDetails()[pri:0, instance:flipkartAutomate.testFiles.ProductDetailTest@5bfa8cc5] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- flipkartAutomate.testFiles.ProductDetailTest -->
+      <class name="flipkartAutomate.testFiles.DownloadOptionTest">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:flipkartAutomate.testFiles.DownloadOptionTest@354fc8f0]" started-at="2024-06-14T13:06:22 IST" name="setup" finished-at="2024-06-14T13:06:25 IST" duration-ms="3143" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void flipkartAutomate.testFiles.DownloadOptionTest.testAndroidDownloadOption()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testAndroidDownloadOption()[pri:1, instance:flipkartAutomate.testFiles.DownloadOptionTest@354fc8f0]" started-at="2024-06-14T13:06:25 IST" name="testAndroidDownloadOption" finished-at="2024-06-14T13:06:27 IST" duration-ms="1444" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAndroidDownloadOption -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:flipkartAutomate.testFiles.DownloadOptionTest@354fc8f0]" started-at="2024-06-14T13:06:27 IST" name="teardown" finished-at="2024-06-14T13:06:27 IST" duration-ms="375" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testAndroidDownloadOption status=SUCCESS method=DownloadOptionTest.testAndroidDownloadOption()[pri:1, instance:flipkartAutomate.testFiles.DownloadOptionTest@354fc8f0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:flipkartAutomate.testFiles.DownloadOptionTest@354fc8f0]" started-at="2024-06-14T13:06:27 IST" name="setup" finished-at="2024-06-14T13:06:30 IST" duration-ms="2784" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void flipkartAutomate.testFiles.DownloadOptionTest.testIosDownloadOption()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testIosDownloadOption()[pri:2, instance:flipkartAutomate.testFiles.DownloadOptionTest@354fc8f0]" started-at="2024-06-14T13:06:30 IST" name="testIosDownloadOption" finished-at="2024-06-14T13:06:31 IST" duration-ms="1138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIosDownloadOption -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:flipkartAutomate.testFiles.DownloadOptionTest@354fc8f0]" started-at="2024-06-14T13:06:31 IST" name="teardown" finished-at="2024-06-14T13:06:31 IST" duration-ms="314" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testIosDownloadOption status=SUCCESS method=DownloadOptionTest.testIosDownloadOption()[pri:2, instance:flipkartAutomate.testFiles.DownloadOptionTest@354fc8f0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- flipkartAutomate.testFiles.DownloadOptionTest -->
+      <class name="flipkartAutomate.testFiles.SellerTest">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:flipkartAutomate.testFiles.SellerTest@2b95e48b]" started-at="2024-06-14T13:08:36 IST" name="setup" finished-at="2024-06-14T13:08:39 IST" duration-ms="3251" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void flipkartAutomate.testFiles.SellerTest.testSellerFunctionality()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testSellerFunctionality()[pri:1, instance:flipkartAutomate.testFiles.SellerTest@2b95e48b]" started-at="2024-06-14T13:08:39 IST" name="testSellerFunctionality" finished-at="2024-06-14T13:08:50 IST" duration-ms="10419" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSellerFunctionality -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:flipkartAutomate.testFiles.SellerTest@2b95e48b]" started-at="2024-06-14T13:08:50 IST" name="teardown" finished-at="2024-06-14T13:08:50 IST" duration-ms="472" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testSellerFunctionality status=SUCCESS method=SellerTest.testSellerFunctionality()[pri:1, instance:flipkartAutomate.testFiles.SellerTest@2b95e48b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- flipkartAutomate.testFiles.SellerTest -->
+      <class name="flipkartAutomate.testFiles.ProductSearchTest">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:flipkartAutomate.testFiles.ProductSearchTest@666b83a4]" started-at="2024-06-14T13:07:48 IST" name="setup" finished-at="2024-06-14T13:07:53 IST" duration-ms="4221" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void flipkartAutomate.testFiles.ProductSearchTest.testSearchData()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testSearchData()[pri:1, instance:flipkartAutomate.testFiles.ProductSearchTest@666b83a4]" started-at="2024-06-14T13:07:53 IST" name="testSearchData" finished-at="2024-06-14T13:07:57 IST" duration-ms="4205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchData -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:flipkartAutomate.testFiles.ProductSearchTest@666b83a4]" started-at="2024-06-14T13:07:57 IST" name="teardown" finished-at="2024-06-14T13:07:57 IST" duration-ms="446" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testSearchData status=SUCCESS method=ProductSearchTest.testSearchData()[pri:1, instance:flipkartAutomate.testFiles.ProductSearchTest@666b83a4] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:flipkartAutomate.testFiles.ProductSearchTest@666b83a4]" started-at="2024-06-14T13:07:57 IST" name="setup" finished-at="2024-06-14T13:08:01 IST" duration-ms="3301" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void flipkartAutomate.testFiles.ProductSearchTest.testInvalidSearchData()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testInvalidSearchData()[pri:2, instance:flipkartAutomate.testFiles.ProductSearchTest@666b83a4]" started-at="2024-06-14T13:08:01 IST" name="testInvalidSearchData" finished-at="2024-06-14T13:08:05 IST" duration-ms="4349" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInvalidSearchData -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:flipkartAutomate.testFiles.ProductSearchTest@666b83a4]" started-at="2024-06-14T13:08:05 IST" name="teardown" finished-at="2024-06-14T13:08:05 IST" duration-ms="320" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testInvalidSearchData status=SUCCESS method=ProductSearchTest.testInvalidSearchData()[pri:2, instance:flipkartAutomate.testFiles.ProductSearchTest@666b83a4] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- flipkartAutomate.testFiles.ProductSearchTest -->
+      <class name="flipkartAutomate.testFiles.ForgetPasswordTest">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:flipkartAutomate.testFiles.ForgetPasswordTest@4678a2eb]" started-at="2024-06-14T13:06:41 IST" name="setup" finished-at="2024-06-14T13:06:44 IST" duration-ms="3722" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void flipkartAutomate.testFiles.ForgetPasswordTest.testForgetPassword()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testForgetPassword()[pri:0, instance:flipkartAutomate.testFiles.ForgetPasswordTest@4678a2eb]" started-at="2024-06-14T13:06:44 IST" name="testForgetPassword" finished-at="2024-06-14T13:06:55 IST" duration-ms="10543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testForgetPassword -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:flipkartAutomate.testFiles.ForgetPasswordTest@4678a2eb]" started-at="2024-06-14T13:06:55 IST" name="teardown" finished-at="2024-06-14T13:06:55 IST" duration-ms="470" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testForgetPassword status=SUCCESS method=ForgetPasswordTest.testForgetPassword()[pri:0, instance:flipkartAutomate.testFiles.ForgetPasswordTest@4678a2eb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- flipkartAutomate.testFiles.ForgetPasswordTest -->
+      <class name="flipkartAutomate.testFiles.AddToCartTest">
+        <test-method is-config="true" signature="beforesuite()[pri:0, instance:flipkartAutomate.testFiles.AddToCartTest@7446d8d5]" started-at="2024-06-14T13:05:42 IST" name="beforesuite" finished-at="2024-06-14T13:05:43 IST" duration-ms="800" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuite -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:flipkartAutomate.testFiles.AddToCartTest@7446d8d5]" started-at="2024-06-14T13:05:43 IST" name="setup" finished-at="2024-06-14T13:05:50 IST" duration-ms="7558" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void flipkartAutomate.testFiles.AddToCartTest.testAddToCart()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testAddToCart()[pri:0, instance:flipkartAutomate.testFiles.AddToCartTest@7446d8d5]" started-at="2024-06-14T13:05:50 IST" name="testAddToCart" finished-at="2024-06-14T13:05:59 IST" duration-ms="8963" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddToCart -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:flipkartAutomate.testFiles.AddToCartTest@7446d8d5]" started-at="2024-06-14T13:05:59 IST" name="teardown" finished-at="2024-06-14T13:06:01 IST" duration-ms="1464" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testAddToCart status=SUCCESS method=AddToCartTest.testAddToCart()[pri:0, instance:flipkartAutomate.testFiles.AddToCartTest@7446d8d5] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- flipkartAutomate.testFiles.AddToCartTest -->
+      <class name="flipkartAutomate.testFiles.CategoryDropdownTest">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:flipkartAutomate.testFiles.CategoryDropdownTest@47db5fa5]" started-at="2024-06-14T13:06:06 IST" name="setup" finished-at="2024-06-14T13:06:10 IST" duration-ms="3603" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void flipkartAutomate.testFiles.CategoryDropdownTest.testCategory()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testCategory()[pri:1, instance:flipkartAutomate.testFiles.CategoryDropdownTest@47db5fa5]" started-at="2024-06-14T13:06:10 IST" name="testCategory" finished-at="2024-06-14T13:06:15 IST" duration-ms="5572" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCategory -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:flipkartAutomate.testFiles.CategoryDropdownTest@47db5fa5]" started-at="2024-06-14T13:06:15 IST" name="teardown" finished-at="2024-06-14T13:06:16 IST" duration-ms="622" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testCategory status=SUCCESS method=CategoryDropdownTest.testCategory()[pri:1, instance:flipkartAutomate.testFiles.CategoryDropdownTest@47db5fa5] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:flipkartAutomate.testFiles.CategoryDropdownTest@47db5fa5]" started-at="2024-06-14T13:06:16 IST" name="setup" finished-at="2024-06-14T13:06:20 IST" duration-ms="3495" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void flipkartAutomate.testFiles.CategoryDropdownTest.testProductFromCategory()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testProductFromCategory()[pri:2, instance:flipkartAutomate.testFiles.CategoryDropdownTest@47db5fa5]" started-at="2024-06-14T13:06:20 IST" name="testProductFromCategory" finished-at="2024-06-14T13:06:22 IST" duration-ms="2094" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testProductFromCategory -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:flipkartAutomate.testFiles.CategoryDropdownTest@47db5fa5]" started-at="2024-06-14T13:06:22 IST" name="teardown" finished-at="2024-06-14T13:06:22 IST" duration-ms="396" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testProductFromCategory status=SUCCESS method=CategoryDropdownTest.testProductFromCategory()[pri:2, instance:flipkartAutomate.testFiles.CategoryDropdownTest@47db5fa5] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- flipkartAutomate.testFiles.CategoryDropdownTest -->
+      <class name="flipkartAutomate.testFiles.FlipkartAdvertiseTest">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:flipkartAutomate.testFiles.FlipkartAdvertiseTest@41813449]" started-at="2024-06-14T13:06:31 IST" name="setup" finished-at="2024-06-14T13:06:35 IST" duration-ms="3823" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void flipkartAutomate.testFiles.FlipkartAdvertiseTest.testAdvertise()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testAdvertise()[pri:0, instance:flipkartAutomate.testFiles.FlipkartAdvertiseTest@41813449]" started-at="2024-06-14T13:06:35 IST" name="testAdvertise" finished-at="2024-06-14T13:06:40 IST" duration-ms="5053" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAdvertise -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:flipkartAutomate.testFiles.FlipkartAdvertiseTest@41813449]" started-at="2024-06-14T13:06:40 IST" name="teardown" finished-at="2024-06-14T13:06:41 IST" duration-ms="512" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testAdvertise status=SUCCESS method=FlipkartAdvertiseTest.testAdvertise()[pri:0, instance:flipkartAutomate.testFiles.FlipkartAdvertiseTest@41813449] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- flipkartAutomate.testFiles.FlipkartAdvertiseTest -->
+      <class name="flipkartAutomate.testFiles.HelplineFunctionalityTest">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:flipkartAutomate.testFiles.HelplineFunctionalityTest@5b43fbf6]" started-at="2024-06-14T13:06:55 IST" name="setup" finished-at="2024-06-14T13:07:00 IST" duration-ms="4195" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void flipkartAutomate.testFiles.HelplineFunctionalityTest.testHelplineFeature()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testHelplineFeature()[pri:1, instance:flipkartAutomate.testFiles.HelplineFunctionalityTest@5b43fbf6]" started-at="2024-06-14T13:07:00 IST" name="testHelplineFeature" finished-at="2024-06-14T13:07:05 IST" duration-ms="5174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHelplineFeature -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:flipkartAutomate.testFiles.HelplineFunctionalityTest@5b43fbf6]" started-at="2024-06-14T13:07:05 IST" name="teardown" finished-at="2024-06-14T13:07:05 IST" duration-ms="484" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testHelplineFeature status=SUCCESS method=HelplineFunctionalityTest.testHelplineFeature()[pri:1, instance:flipkartAutomate.testFiles.HelplineFunctionalityTest@5b43fbf6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:flipkartAutomate.testFiles.HelplineFunctionalityTest@5b43fbf6]" started-at="2024-06-14T13:07:05 IST" name="setup" finished-at="2024-06-14T13:07:09 IST" duration-ms="3401" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void flipkartAutomate.testFiles.HelplineFunctionalityTest.testHelplineDisagreeFeature()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testHelplineDisagreeFeature()[pri:2, instance:flipkartAutomate.testFiles.HelplineFunctionalityTest@5b43fbf6]" started-at="2024-06-14T13:07:09 IST" name="testHelplineDisagreeFeature" finished-at="2024-06-14T13:07:10 IST" duration-ms="1823" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHelplineDisagreeFeature -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:flipkartAutomate.testFiles.HelplineFunctionalityTest@5b43fbf6]" started-at="2024-06-14T13:07:10 IST" name="teardown" finished-at="2024-06-14T13:07:11 IST" duration-ms="287" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testHelplineDisagreeFeature status=SUCCESS method=HelplineFunctionalityTest.testHelplineDisagreeFeature()[pri:2, instance:flipkartAutomate.testFiles.HelplineFunctionalityTest@5b43fbf6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- flipkartAutomate.testFiles.HelplineFunctionalityTest -->
+      <class name="flipkartAutomate.testFiles.LoginTest">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:flipkartAutomate.testFiles.LoginTest@1080b026]" started-at="2024-06-14T13:07:11 IST" name="setup" finished-at="2024-06-14T13:07:14 IST" duration-ms="3426" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void flipkartAutomate.testFiles.LoginTest.testInvalidLogin()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testInvalidLogin()[pri:0, instance:flipkartAutomate.testFiles.LoginTest@1080b026]" started-at="2024-06-14T13:07:14 IST" name="testInvalidLogin" finished-at="2024-06-14T13:07:18 IST" duration-ms="3973" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInvalidLogin -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:flipkartAutomate.testFiles.LoginTest@1080b026]" started-at="2024-06-14T13:07:18 IST" name="teardown" finished-at="2024-06-14T13:07:19 IST" duration-ms="462" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testInvalidLogin status=SUCCESS method=LoginTest.testInvalidLogin()[pri:0, instance:flipkartAutomate.testFiles.LoginTest@1080b026] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- flipkartAutomate.testFiles.LoginTest -->
+      <class name="flipkartAutomate.testFiles.CartLoginTest">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:flipkartAutomate.testFiles.CartLoginTest@4879f0f2]" started-at="2024-06-14T13:06:01 IST" name="setup" finished-at="2024-06-14T13:06:04 IST" duration-ms="3560" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void flipkartAutomate.testFiles.CartLoginTest.testCartLogin()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testCartLogin()[pri:0, instance:flipkartAutomate.testFiles.CartLoginTest@4879f0f2]" started-at="2024-06-14T13:06:04 IST" name="testCartLogin" finished-at="2024-06-14T13:06:06 IST" duration-ms="1287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCartLogin -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:flipkartAutomate.testFiles.CartLoginTest@4879f0f2]" started-at="2024-06-14T13:06:06 IST" name="teardown" finished-at="2024-06-14T13:06:06 IST" duration-ms="519" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testCartLogin status=SUCCESS method=CartLoginTest.testCartLogin()[pri:0, instance:flipkartAutomate.testFiles.CartLoginTest@4879f0f2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- flipkartAutomate.testFiles.CartLoginTest -->
+      <class name="flipkartAutomate.testFiles.PincodeTest">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:flipkartAutomate.testFiles.PincodeTest@58ebfd03]" started-at="2024-06-14T13:07:19 IST" name="setup" finished-at="2024-06-14T13:07:25 IST" duration-ms="6333" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void flipkartAutomate.testFiles.PincodeTest.testPincode()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="instanceSet()[pri:0, instance:flipkartAutomate.testFiles.PincodeTest@58ebfd03]" started-at="2024-06-14T13:07:25 IST" name="instanceSet" finished-at="2024-06-14T13:07:25 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- instanceSet -->
+        <test-method signature="testPincode()[pri:1, instance:flipkartAutomate.testFiles.PincodeTest@58ebfd03]" started-at="2024-06-14T13:07:25 IST" name="testPincode" finished-at="2024-06-14T13:07:29 IST" duration-ms="3916" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPincode -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:flipkartAutomate.testFiles.PincodeTest@58ebfd03]" started-at="2024-06-14T13:07:29 IST" name="teardown" finished-at="2024-06-14T13:07:29 IST" duration-ms="440" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testPincode status=SUCCESS method=PincodeTest.testPincode()[pri:1, instance:flipkartAutomate.testFiles.PincodeTest@58ebfd03] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:flipkartAutomate.testFiles.PincodeTest@58ebfd03]" started-at="2024-06-14T13:07:29 IST" name="setup" finished-at="2024-06-14T13:07:33 IST" duration-ms="3666" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void flipkartAutomate.testFiles.PincodeTest.testIncorrectPincode()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="instanceSet()[pri:0, instance:flipkartAutomate.testFiles.PincodeTest@58ebfd03]" started-at="2024-06-14T13:07:33 IST" name="instanceSet" finished-at="2024-06-14T13:07:33 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- instanceSet -->
+        <test-method signature="testIncorrectPincode()[pri:2, instance:flipkartAutomate.testFiles.PincodeTest@58ebfd03]" started-at="2024-06-14T13:07:33 IST" name="testIncorrectPincode" finished-at="2024-06-14T13:07:36 IST" duration-ms="3129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncorrectPincode -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:flipkartAutomate.testFiles.PincodeTest@58ebfd03]" started-at="2024-06-14T13:07:36 IST" name="teardown" finished-at="2024-06-14T13:07:36 IST" duration-ms="256" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testIncorrectPincode status=SUCCESS method=PincodeTest.testIncorrectPincode()[pri:2, instance:flipkartAutomate.testFiles.PincodeTest@58ebfd03] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- flipkartAutomate.testFiles.PincodeTest -->
+      <class name="flipkartAutomate.testFiles.RegisterSellerTest">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:flipkartAutomate.testFiles.RegisterSellerTest@749c877b]" started-at="2024-06-14T13:08:05 IST" name="setup" finished-at="2024-06-14T13:08:09 IST" duration-ms="3196" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void flipkartAutomate.testFiles.RegisterSellerTest.testSellerRegistration()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testSellerRegistration()[pri:0, instance:flipkartAutomate.testFiles.RegisterSellerTest@749c877b]" started-at="2024-06-14T13:08:09 IST" name="testSellerRegistration" finished-at="2024-06-14T13:08:19 IST" duration-ms="10502" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSellerRegistration -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:flipkartAutomate.testFiles.RegisterSellerTest@749c877b]" started-at="2024-06-14T13:08:19 IST" name="teardown" finished-at="2024-06-14T13:08:19 IST" duration-ms="437" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testSellerRegistration status=SUCCESS method=RegisterSellerTest.testSellerRegistration()[pri:0, instance:flipkartAutomate.testFiles.RegisterSellerTest@749c877b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- flipkartAutomate.testFiles.RegisterSellerTest -->
+      <class name="flipkartAutomate.testFiles.RemoveFromCartTest">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:flipkartAutomate.testFiles.RemoveFromCartTest@efde75f]" started-at="2024-06-14T13:08:19 IST" name="setup" finished-at="2024-06-14T13:08:24 IST" duration-ms="4161" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void flipkartAutomate.testFiles.RemoveFromCartTest.testRemoveFromCart()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testRemoveFromCart()[pri:0, instance:flipkartAutomate.testFiles.RemoveFromCartTest@efde75f]" started-at="2024-06-14T13:08:24 IST" name="testRemoveFromCart" finished-at="2024-06-14T13:08:35 IST" duration-ms="11737" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRemoveFromCart -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:flipkartAutomate.testFiles.RemoveFromCartTest@efde75f]" started-at="2024-06-14T13:08:35 IST" name="teardown" finished-at="2024-06-14T13:08:36 IST" duration-ms="497" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testRemoveFromCart status=SUCCESS method=RemoveFromCartTest.testRemoveFromCart()[pri:0, instance:flipkartAutomate.testFiles.RemoveFromCartTest@efde75f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- flipkartAutomate.testFiles.RemoveFromCartTest -->
+      <class name="flipkartAutomate.testFiles.SignUpTest">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:flipkartAutomate.testFiles.SignUpTest@4a3329b9]" started-at="2024-06-14T13:08:50 IST" name="setup" finished-at="2024-06-14T13:08:54 IST" duration-ms="3671" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void flipkartAutomate.testFiles.SignUpTest.testSignUp()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testSignUp()[pri:1, instance:flipkartAutomate.testFiles.SignUpTest@4a3329b9]" started-at="2024-06-14T13:08:54 IST" name="testSignUp" finished-at="2024-06-14T13:09:16 IST" duration-ms="22499" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSignUp -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:flipkartAutomate.testFiles.SignUpTest@4a3329b9]" started-at="2024-06-14T13:09:16 IST" name="teardown" finished-at="2024-06-14T13:09:17 IST" duration-ms="347" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testSignUp status=SUCCESS method=SignUpTest.testSignUp()[pri:1, instance:flipkartAutomate.testFiles.SignUpTest@4a3329b9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- flipkartAutomate.testFiles.SignUpTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

@@ -1,0 +1,487 @@
+[INFO ] 2024-06-14 09:55:51.228 [main] CartLoginTest - Started testing login through cart.
+[INFO ] 2024-06-14 09:55:52.572 [main] CartLoginTest - Completed testing login through cart functionality.
+[INFO ] 2024-06-14 10:38:12.659 [main] AddToCartTest - Started testing add to cart functionality
+[INFO ] 2024-06-14 10:38:20.372 [main] AddToCartTest - Completed testing add to cart functionality successfully. 
+[INFO ] 2024-06-14 10:38:25.948 [main] CartLoginTest - Started testing login through cart.
+[INFO ] 2024-06-14 10:38:27.159 [main] CartLoginTest - Completed testing login through cart functionality.
+[INFO ] 2024-06-14 10:38:30.329 [main] CategoryDropdownTest - Started testing navigating product through category.
+[INFO ] 2024-06-14 10:38:32.091 [main] CategoryDropdownTest - Completed testing categoryDropdownTest. 
+[INFO ] 2024-06-14 10:38:35.445 [main] DownloadOptionTest - Started testing download option for android.
+[INFO ] 2024-06-14 10:38:36.640 [main] DownloadOptionTest - Completed testing download option for android.
+[INFO ] 2024-06-14 10:38:40.433 [main] DownloadOptionTest - Started testing download option visibility for iOS device.
+[INFO ] 2024-06-14 10:38:41.776 [main] DownloadOptionTest - Completed testing download option for iOS. 
+[INFO ] 2024-06-14 10:38:46.194 [main] ForgetPasswordTest - Started testing forget password functionality.
+[ERROR] 2024-06-14 10:38:56.284 [main] ForgetPasswordTest - Error in forget password functionality.element not interactable
+  (Session info: chrome-headless-shell=126.0.6478.56)
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d265f5cda23444495e73c45fd7b64ac6, clickElement {id=f.9A063668445B093EDF5C3345D347FA3A.d.64D5A0DC961DB19A534965B926662E1E.e.103}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome-headless-shell, browserVersion: 126.0.6478.56, chrome: {chromedriverVersion: 126.0.6478.55 (7616ff175414..., userDataDir: C:\Users\KULDEE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49300}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49300/devtoo..., se:cdpVersion: 126.0.6478.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome-headless-shell on windows (d265f5cda23444495e73c45fd7b64ac6)] -> xpath: //a[normalize-space()='Become a Seller']]
+Session ID: d265f5cda23444495e73c45fd7b64ac6
+[INFO ] 2024-06-14 10:39:00.097 [main] HelplineFunctionalityTest - Started testing helpline feature for agreeing.
+[INFO ] 2024-06-14 10:39:01.908 [main] HelplineFunctionalityTest - Completed testing helpline feature for agreeing.
+[INFO ] 2024-06-14 10:39:05.582 [main] HelplineFunctionalityTest - Started testing helpline feature for disagreeing.
+[INFO ] 2024-06-14 10:39:07.479 [main] HelplineFunctionalityTest - Completed testing helpline feature for disagreeing.
+[INFO ] 2024-06-14 10:39:10.999 [main] LoginTest - Started testing user login for invalid case.
+[INFO ] 2024-06-14 10:39:15.205 [main] LoginTest - Completed testing user login for invalid case.
+[INFO ] 2024-06-14 10:39:18.987 [main] PincodeTest - Started testing valid pincode functionality.
+[INFO ] 2024-06-14 10:39:22.363 [main] PincodeTest - Completed testing valid pincode functionality.
+[INFO ] 2024-06-14 10:39:26.249 [main] PincodeTest - Started testing invalid pincode functionality.
+[INFO ] 2024-06-14 10:39:29.692 [main] PincodeTest - Completed testing invalid pincode functionality.
+[INFO ] 2024-06-14 10:39:33.907 [main] ProductDetailTest - Started testing product details functionality.
+[INFO ] 2024-06-14 10:39:41.692 [main] ProductDetailTest - Completed testing product details functionality.
+[INFO ] 2024-06-14 10:39:45.497 [main] ProductSearchTest - Started testing valid product search functionality.
+[INFO ] 2024-06-14 10:39:49.609 [main] ProductSearchTest - Completed testing valid product search functionality.
+[INFO ] 2024-06-14 10:39:53.471 [main] ProductSearchTest - Started testing invalid product search functionality.
+[INFO ] 2024-06-14 10:39:57.168 [main] ProductSearchTest - Completed testing invalid product search functionality.
+[INFO ] 2024-06-14 10:40:01.081 [main] RegisterSellerTest - Started testing seller registration functionality.
+[ERROR] 2024-06-14 10:40:11.210 [main] RegisterSellerTest - error in testing seller registration functionality: element not interactable
+  (Session info: chrome-headless-shell=126.0.6478.56)
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7924827a2ee7d145b3dfde9f685246cf, clickElement {id=f.FB3443C3CDC6B3D55611D16AF0B6AB49.d.399760A9BD04623BD9E8465D733DB30F.e.102}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome-headless-shell, browserVersion: 126.0.6478.56, chrome: {chromedriverVersion: 126.0.6478.55 (7616ff175414..., userDataDir: C:\Users\KULDEE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50148}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50148/devtoo..., se:cdpVersion: 126.0.6478.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome-headless-shell on windows (7924827a2ee7d145b3dfde9f685246cf)] -> xpath: //a[normalize-space()='Become a Seller']]
+Session ID: 7924827a2ee7d145b3dfde9f685246cf
+[INFO ] 2024-06-14 10:40:15.065 [main] RemoveFromCartTest - Started testing remove from cart functionality.
+[INFO ] 2024-06-14 10:40:25.338 [main] RemoveFromCartTest - Completed testing remove from cart functionality.
+[INFO ] 2024-06-14 10:40:29.062 [main] SellerTest - Started testing seller login functionality.
+[ERROR] 2024-06-14 10:40:39.138 [main] SellerTest - Error in testing seller login functionality. element not interactable
+  (Session info: chrome-headless-shell=126.0.6478.56)
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b154405f33a9c9caf955103e42d87552, clickElement {id=f.F69CF65447CB482A58CB353FBDDABD6B.d.4CDAF09D8A86DAFC8FD0CD87D848B858.e.103}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome-headless-shell, browserVersion: 126.0.6478.56, chrome: {chromedriverVersion: 126.0.6478.55 (7616ff175414..., userDataDir: C:\Users\KULDEE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50270}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50270/devtoo..., se:cdpVersion: 126.0.6478.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome-headless-shell on windows (b154405f33a9c9caf955103e42d87552)] -> xpath: //a[normalize-space()='Become a Seller']]
+Session ID: b154405f33a9c9caf955103e42d87552
+[INFO ] 2024-06-14 10:40:42.795 [main] SignUpTest - Started testing invalid signup functionality.
+[INFO ] 2024-06-14 10:40:47.255 [main] SignUpTest - Completed testing invalid signup functionality.
+[INFO ] 2024-06-14 10:57:31.638 [main] FlipkartAdvertiseTest - Started testing save product to favourites.
+[INFO ] 2024-06-14 10:57:59.085 [main] FlipkartAdvertiseTest - Started testing save product to favourites.
+[INFO ] 2024-06-14 11:03:31.941 [main] FlipkartAdvertiseTest - Started testing flipkart advertise page visibility.
+[INFO ] 2024-06-14 11:03:34.009 [main] FlipkartAdvertiseTest - Completed testing flipkart ads functionality.
+[INFO ] 2024-06-14 11:04:23.099 [main] FlipkartAdvertiseTest - Started testing flipkart advertise page visibility.
+[INFO ] 2024-06-14 11:04:25.018 [main] FlipkartAdvertiseTest - Completed testing flipkart ads functionality.
+[INFO ] 2024-06-14 11:05:22.240 [main] ForgetPasswordTest - Started testing forget password functionality.
+[INFO ] 2024-06-14 11:05:34.699 [main] ForgetPasswordTest - Completed testing forget password functionality. 
+[INFO ] 2024-06-14 11:06:17.600 [main] RegisterSellerTest - Started testing seller registration functionality.
+[INFO ] 2024-06-14 11:06:25.361 [main] RegisterSellerTest - Completed testing register seller functionality.
+[INFO ] 2024-06-14 11:08:09.178 [main] LoginTest - Started testing user login for invalid case.
+[INFO ] 2024-06-14 11:08:13.277 [main] LoginTest - Completed testing user login for invalid case.
+[INFO ] 2024-06-14 11:08:17.074 [main] SignUpTest - Started testing invalid signup functionality.
+[INFO ] 2024-06-14 11:08:21.556 [main] SignUpTest - Completed testing invalid signup functionality.
+[INFO ] 2024-06-14 11:08:25.657 [main] PincodeTest - Started testing valid pincode functionality.
+[INFO ] 2024-06-14 11:08:33.399 [main] PincodeTest - Started testing invalid pincode functionality.
+[INFO ] 2024-06-14 11:08:36.602 [main] PincodeTest - Completed testing invalid pincode functionality.
+[INFO ] 2024-06-14 11:08:40.670 [main] SellerTest - Started testing seller login functionality.
+[ERROR] 2024-06-14 11:08:50.781 [main] SellerTest - Error in testing seller login functionality. element not interactable
+  (Session info: chrome-headless-shell=126.0.6478.56)
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [26a7e646684a79f00e55a4775e933987, clickElement {id=f.4F45D3BE7D590827C21ABE6F229A8C3E.d.9FB16A75DE4F9286175BAC0A1B65CB47.e.103}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome-headless-shell, browserVersion: 126.0.6478.56, chrome: {chromedriverVersion: 126.0.6478.55 (7616ff175414..., userDataDir: C:\Users\KULDEE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52242}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52242/devtoo..., se:cdpVersion: 126.0.6478.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome-headless-shell on windows (26a7e646684a79f00e55a4775e933987)] -> xpath: //a[normalize-space()='Become a Seller']]
+Session ID: 26a7e646684a79f00e55a4775e933987
+[INFO ] 2024-06-14 11:08:54.161 [main] RegisterSellerTest - Started testing seller registration functionality.
+[ERROR] 2024-06-14 11:09:04.248 [main] RegisterSellerTest - error in testing seller registration functionality: element not interactable
+  (Session info: chrome-headless-shell=126.0.6478.56)
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [06bb82934cd073ff6678ee8d441fb171, clickElement {id=f.1FF9653EB3BC050813521CC27FE3B309.d.F8EA1A44D372F417305FDB8E15AC5EB2.e.100}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome-headless-shell, browserVersion: 126.0.6478.56, chrome: {chromedriverVersion: 126.0.6478.55 (7616ff175414..., userDataDir: C:\Users\KULDEE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52286}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52286/devtoo..., se:cdpVersion: 126.0.6478.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome-headless-shell on windows (06bb82934cd073ff6678ee8d441fb171)] -> xpath: //a[normalize-space()='Become a Seller']]
+Session ID: 06bb82934cd073ff6678ee8d441fb171
+[INFO ] 2024-06-14 11:09:08.748 [main] AddToCartTest - Started testing add to cart functionality
+[INFO ] 2024-06-14 11:09:15.695 [main] AddToCartTest - Completed testing add to cart functionality successfully. 
+[INFO ] 2024-06-14 11:09:23.310 [main] CartLoginTest - Started testing login through cart.
+[INFO ] 2024-06-14 11:09:25.169 [main] CartLoginTest - Completed testing login through cart functionality.
+[INFO ] 2024-06-14 11:09:29.271 [main] CategoryDropdownTest - Started testing navigating product through category.
+[INFO ] 2024-06-14 11:09:31.933 [main] CategoryDropdownTest - Completed testing categoryDropdownTest. 
+[INFO ] 2024-06-14 11:09:39.477 [main] FavouritesProduct - Started testing save product to favourites.
+[INFO ] 2024-06-14 11:09:49.790 [main] FavouritesProduct - Completed testing adding to favourites product. 
+[INFO ] 2024-06-14 11:09:54.064 [main] ForgetPasswordTest - Started testing forget password functionality.
+[ERROR] 2024-06-14 11:10:04.131 [main] ForgetPasswordTest - Error in forget password functionality.element not interactable
+  (Session info: chrome-headless-shell=126.0.6478.56)
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [32ed2d33f3af619c31db955acae5308a, clickElement {id=f.2803880A0A15C6FA1C2AF3DB917F02ED.d.AE5B725967741EE0D2E34515AB8A7BAD.e.101}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome-headless-shell, browserVersion: 126.0.6478.56, chrome: {chromedriverVersion: 126.0.6478.55 (7616ff175414..., userDataDir: C:\Users\KULDEE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52567}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52567/devtoo..., se:cdpVersion: 126.0.6478.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome-headless-shell on windows (32ed2d33f3af619c31db955acae5308a)] -> xpath: //a[normalize-space()='Become a Seller']]
+Session ID: 32ed2d33f3af619c31db955acae5308a
+[INFO ] 2024-06-14 11:10:07.832 [main] HelplineFunctionalityTest - Started testing helpline feature for agreeing.
+[INFO ] 2024-06-14 11:10:09.707 [main] HelplineFunctionalityTest - Completed testing helpline feature for agreeing.
+[INFO ] 2024-06-14 11:10:12.982 [main] HelplineFunctionalityTest - Started testing helpline feature for disagreeing.
+[INFO ] 2024-06-14 11:10:14.829 [main] HelplineFunctionalityTest - Completed testing helpline feature for disagreeing.
+[INFO ] 2024-06-14 11:10:17.908 [main] ProductDetailTest - Started testing product details functionality.
+[INFO ] 2024-06-14 11:10:29.649 [main] ProductDetailTest - Completed testing product details functionality.
+[INFO ] 2024-06-14 11:10:33.296 [main] ProductSearchTest - Started testing valid product search functionality.
+[INFO ] 2024-06-14 11:10:37.546 [main] ProductSearchTest - Completed testing valid product search functionality.
+[INFO ] 2024-06-14 11:10:41.301 [main] ProductSearchTest - Started testing invalid product search functionality.
+[INFO ] 2024-06-14 11:10:44.897 [main] ProductSearchTest - Completed testing invalid product search functionality.
+[INFO ] 2024-06-14 11:10:49.192 [main] LogoVisibility - Started testing flipkart logo visibility.
+[INFO ] 2024-06-14 11:10:49.278 [main] LogoVisibility - Completed testing logo visibility for flipkart.
+[INFO ] 2024-06-14 11:10:52.771 [main] FlipkartAdvertiseTest - Started testing flipkart advertise page visibility.
+[INFO ] 2024-06-14 11:10:57.342 [main] FlipkartAdvertiseTest - Completed testing flipkart ads functionality.
+[INFO ] 2024-06-14 11:20:53.057 [main] SignUpTest - Started testing invalid signup functionality.
+[INFO ] 2024-06-14 11:20:58.280 [main] SignUpTest - Completed testing invalid signup functionality.
+[INFO ] 2024-06-14 11:22:47.700 [main] AddToCartTest - Started testing add to cart functionality
+[INFO ] 2024-06-14 11:22:57.412 [main] AddToCartTest - Completed testing add to cart functionality successfully. 
+[INFO ] 2024-06-14 11:23:02.622 [main] CartLoginTest - Started testing login through cart.
+[INFO ] 2024-06-14 11:23:04.157 [main] CartLoginTest - Completed testing login through cart functionality.
+[INFO ] 2024-06-14 11:23:08.103 [main] CategoryDropdownTest - Started testing navigating product through category.
+[INFO ] 2024-06-14 11:23:10.134 [main] CategoryDropdownTest - Completed testing categoryDropdownTest. 
+[INFO ] 2024-06-14 11:23:17.588 [main] DownloadOptionTest - Started testing download option for android.
+[INFO ] 2024-06-14 11:23:19.175 [main] DownloadOptionTest - Completed testing download option for android.
+[INFO ] 2024-06-14 11:23:22.780 [main] DownloadOptionTest - Started testing download option visibility for iOS device.
+[INFO ] 2024-06-14 11:23:24.107 [main] DownloadOptionTest - Completed testing download option for iOS. 
+[INFO ] 2024-06-14 11:23:26.240 [main] FlipkartAdvertiseTest - Started testing flipkart advertise page visibility.
+[INFO ] 2024-06-14 11:23:32.405 [main] FlipkartAdvertiseTest - Completed testing flipkart ads functionality.
+[INFO ] 2024-06-14 11:23:36.286 [main] ForgetPasswordTest - Started testing forget password functionality.
+[ERROR] 2024-06-14 11:23:46.452 [main] ForgetPasswordTest - Error in forget password functionality.element not interactable
+  (Session info: chrome-headless-shell=126.0.6478.56)
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c3b28f9b1442ccbddd935b0328b0bed8, clickElement {id=f.7C71EAF1DDE84E49B169B4435A5285BF.d.EA067B89D373867E310AA5BFBE4AE0C0.e.99}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome-headless-shell, browserVersion: 126.0.6478.56, chrome: {chromedriverVersion: 126.0.6478.55 (7616ff175414..., userDataDir: C:\Users\KULDEE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53749}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53749/devtoo..., se:cdpVersion: 126.0.6478.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome-headless-shell on windows (c3b28f9b1442ccbddd935b0328b0bed8)] -> xpath: //a[normalize-space()='Become a Seller']]
+Session ID: c3b28f9b1442ccbddd935b0328b0bed8
+[INFO ] 2024-06-14 11:23:50.710 [main] HelplineFunctionalityTest - Started testing helpline feature for agreeing.
+[INFO ] 2024-06-14 11:23:57.912 [main] HelplineFunctionalityTest - Completed testing helpline feature for agreeing.
+[INFO ] 2024-06-14 11:24:01.908 [main] HelplineFunctionalityTest - Started testing helpline feature for disagreeing.
+[INFO ] 2024-06-14 11:24:04.631 [main] HelplineFunctionalityTest - Completed testing helpline feature for disagreeing.
+[INFO ] 2024-06-14 11:24:08.310 [main] LoginTest - Started testing user login for invalid case.
+[INFO ] 2024-06-14 11:24:12.212 [main] LoginTest - Completed testing user login for invalid case.
+[INFO ] 2024-06-14 11:24:16.129 [main] PincodeTest - Started testing valid pincode functionality.
+[INFO ] 2024-06-14 11:24:19.632 [main] PincodeTest - Completed testing valid pincode functionality.
+[INFO ] 2024-06-14 11:24:23.277 [main] PincodeTest - Started testing invalid pincode functionality.
+[INFO ] 2024-06-14 11:24:26.645 [main] PincodeTest - Completed testing invalid pincode functionality.
+[INFO ] 2024-06-14 11:24:33.461 [main] ProductDetailTest - Started testing product details functionality.
+[INFO ] 2024-06-14 11:24:40.311 [main] ProductDetailTest - Completed testing product details functionality.
+[INFO ] 2024-06-14 11:24:45.405 [main] ProductSearchTest - Started testing valid product search functionality.
+[INFO ] 2024-06-14 11:24:52.588 [main] ProductSearchTest - Completed testing valid product search functionality.
+[INFO ] 2024-06-14 11:24:56.405 [main] ProductSearchTest - Started testing invalid product search functionality.
+[INFO ] 2024-06-14 11:25:00.119 [main] ProductSearchTest - Completed testing invalid product search functionality.
+[INFO ] 2024-06-14 11:25:07.394 [main] RegisterSellerTest - Started testing seller registration functionality.
+[ERROR] 2024-06-14 11:25:17.504 [main] RegisterSellerTest - error in testing seller registration functionality: element not interactable
+  (Session info: chrome-headless-shell=126.0.6478.56)
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a1463c47280e517227dfe117c4a16111, clickElement {id=f.EA98A03814606DCB942F453CD2A1B3F9.d.47AD18E54F9D09BAA09FA352A7D6E5F0.e.97}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome-headless-shell, browserVersion: 126.0.6478.56, chrome: {chromedriverVersion: 126.0.6478.55 (7616ff175414..., userDataDir: C:\Users\KULDEE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54311}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54311/devtoo..., se:cdpVersion: 126.0.6478.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome-headless-shell on windows (a1463c47280e517227dfe117c4a16111)] -> xpath: //a[normalize-space()='Become a Seller']]
+Session ID: a1463c47280e517227dfe117c4a16111
+[INFO ] 2024-06-14 11:25:21.516 [main] RemoveFromCartTest - Started testing remove from cart functionality.
+[ERROR] 2024-06-14 11:25:44.093 [main] RemoveFromCartTest - Error in testing remove from cart functionality: no such element: Unable to locate element: {"method":"xpath","selector":"(//button[normalize-space()='Add to cart'])[1]"}
+  (Session info: chrome-headless-shell=126.0.6478.56)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1ade4190f6e30bd391ce0103591cdf00, findElement {using=xpath, value=(//button[normalize-space()='Add to cart'])[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome-headless-shell, browserVersion: 126.0.6478.56, chrome: {chromedriverVersion: 126.0.6478.55 (7616ff175414..., userDataDir: C:\Users\KULDEE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54361}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54361/devtoo..., se:cdpVersion: 126.0.6478.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1ade4190f6e30bd391ce0103591cdf00
+[INFO ] 2024-06-14 11:25:48.181 [main] SellerTest - Started testing seller login functionality.
+[ERROR] 2024-06-14 11:25:58.263 [main] SellerTest - Error in testing seller login functionality. element not interactable
+  (Session info: chrome-headless-shell=126.0.6478.56)
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1933c87ab2d0db331fc5ec31663672fb, clickElement {id=f.10A45FB3F1523ACC45299F296A420A03.d.0D91BC08CACFE4FC74078B67CB8842AD.e.103}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome-headless-shell, browserVersion: 126.0.6478.56, chrome: {chromedriverVersion: 126.0.6478.55 (7616ff175414..., userDataDir: C:\Users\KULDEE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54468}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54468/devtoo..., se:cdpVersion: 126.0.6478.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome-headless-shell on windows (1933c87ab2d0db331fc5ec31663672fb)] -> xpath: //a[normalize-space()='Become a Seller']]
+Session ID: 1933c87ab2d0db331fc5ec31663672fb
+[INFO ] 2024-06-14 11:26:02.558 [main] SignUpTest - Started testing invalid signup functionality.
+[INFO ] 2024-06-14 11:26:09.514 [main] SignUpTest - Completed testing invalid signup functionality.
+[INFO ] 2024-06-14 11:27:31.293 [main] AddToCartTest - Started testing add to cart functionality
+[INFO ] 2024-06-14 11:27:39.291 [main] AddToCartTest - Completed testing add to cart functionality successfully. 
+[INFO ] 2024-06-14 11:27:43.988 [main] CartLoginTest - Started testing login through cart.
+[INFO ] 2024-06-14 11:27:45.326 [main] CartLoginTest - Completed testing login through cart functionality.
+[INFO ] 2024-06-14 11:27:49.132 [main] CategoryDropdownTest - Started testing navigating product through category.
+[INFO ] 2024-06-14 11:27:50.914 [main] CategoryDropdownTest - Completed testing categoryDropdownTest. 
+[INFO ] 2024-06-14 11:27:55.322 [main] DownloadOptionTest - Started testing download option for android.
+[INFO ] 2024-06-14 11:27:58.169 [main] DownloadOptionTest - Completed testing download option for android.
+[INFO ] 2024-06-14 11:28:01.923 [main] DownloadOptionTest - Started testing download option visibility for iOS device.
+[INFO ] 2024-06-14 11:28:03.166 [main] DownloadOptionTest - Completed testing download option for iOS. 
+[INFO ] 2024-06-14 11:28:06.985 [main] FlipkartAdvertiseTest - Started testing flipkart advertise page visibility.
+[INFO ] 2024-06-14 11:28:08.670 [main] FlipkartAdvertiseTest - Completed testing flipkart ads functionality.
+[INFO ] 2024-06-14 11:28:12.689 [main] ForgetPasswordTest - Started testing forget password functionality.
+[ERROR] 2024-06-14 11:28:22.830 [main] ForgetPasswordTest - Error in forget password functionality.element not interactable
+  (Session info: chrome-headless-shell=126.0.6478.56)
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c9d6e0d4ff9d878e170509f38768dccc, clickElement {id=f.D2600F53AA343257159049188603C667.d.8BAD8F782342CBAF65AA14BA72EBC100.e.100}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome-headless-shell, browserVersion: 126.0.6478.56, chrome: {chromedriverVersion: 126.0.6478.55 (7616ff175414..., userDataDir: C:\Users\KULDEE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54977}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54977/devtoo..., se:cdpVersion: 126.0.6478.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome-headless-shell on windows (c9d6e0d4ff9d878e170509f38768dccc)] -> xpath: //a[normalize-space()='Become a Seller']]
+Session ID: c9d6e0d4ff9d878e170509f38768dccc
+[INFO ] 2024-06-14 11:28:26.834 [main] HelplineFunctionalityTest - Started testing helpline feature for agreeing.
+[INFO ] 2024-06-14 11:28:28.785 [main] HelplineFunctionalityTest - Completed testing helpline feature for agreeing.
+[INFO ] 2024-06-14 11:28:32.948 [main] HelplineFunctionalityTest - Started testing helpline feature for disagreeing.
+[INFO ] 2024-06-14 11:28:36.054 [main] HelplineFunctionalityTest - Completed testing helpline feature for disagreeing.
+[INFO ] 2024-06-14 11:28:43.342 [main] LoginTest - Started testing user login for invalid case.
+[INFO ] 2024-06-14 11:28:48.482 [main] LoginTest - Completed testing user login for invalid case.
+[INFO ] 2024-06-14 11:28:52.387 [main] PincodeTest - Started testing valid pincode functionality.
+[INFO ] 2024-06-14 11:28:55.668 [main] PincodeTest - Completed testing valid pincode functionality.
+[INFO ] 2024-06-14 11:28:59.808 [main] PincodeTest - Started testing invalid pincode functionality.
+[INFO ] 2024-06-14 11:29:04.823 [main] PincodeTest - Completed testing invalid pincode functionality.
+[INFO ] 2024-06-14 11:29:08.432 [main] ProductDetailTest - Started testing product details functionality.
+[INFO ] 2024-06-14 11:29:14.708 [main] ProductDetailTest - Completed testing product details functionality.
+[INFO ] 2024-06-14 11:29:18.217 [main] ProductSearchTest - Started testing valid product search functionality.
+[INFO ] 2024-06-14 11:29:22.489 [main] ProductSearchTest - Completed testing valid product search functionality.
+[INFO ] 2024-06-14 11:29:28.797 [main] ProductSearchTest - Started testing invalid product search functionality.
+[INFO ] 2024-06-14 11:29:34.157 [main] ProductSearchTest - Completed testing invalid product search functionality.
+[INFO ] 2024-06-14 11:29:37.766 [main] RegisterSellerTest - Started testing seller registration functionality.
+[ERROR] 2024-06-14 11:29:47.840 [main] RegisterSellerTest - error in testing seller registration functionality: element not interactable
+  (Session info: chrome-headless-shell=126.0.6478.56)
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c0c0686144327f4a553dadd7b65575a8, clickElement {id=f.C0075B45DF638E3F6F57F4D855553B6C.d.ED828E4D0A170176A206C7F799ED5C2B.e.101}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome-headless-shell, browserVersion: 126.0.6478.56, chrome: {chromedriverVersion: 126.0.6478.55 (7616ff175414..., userDataDir: C:\Users\KULDEE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55574}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55574/devtoo..., se:cdpVersion: 126.0.6478.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome-headless-shell on windows (c0c0686144327f4a553dadd7b65575a8)] -> xpath: //a[normalize-space()='Become a Seller']]
+Session ID: c0c0686144327f4a553dadd7b65575a8
+[INFO ] 2024-06-14 11:29:54.360 [main] RemoveFromCartTest - Started testing remove from cart functionality.
+[INFO ] 2024-06-14 11:30:05.366 [main] RemoveFromCartTest - Completed testing remove from cart functionality.
+[INFO ] 2024-06-14 11:30:10.502 [main] SellerTest - Started testing seller login functionality.
+[ERROR] 2024-06-14 11:30:20.569 [main] SellerTest - Error in testing seller login functionality. element not interactable
+  (Session info: chrome-headless-shell=126.0.6478.56)
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [32dcc276d850dca42e84f7d3e7c79d8c, clickElement {id=f.B770BC6E8A623C6417FB44A81C04F42D.d.FE1F969C38E3EF163E24BE3CF12C6FD9.e.98}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome-headless-shell, browserVersion: 126.0.6478.56, chrome: {chromedriverVersion: 126.0.6478.55 (7616ff175414..., userDataDir: C:\Users\KULDEE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55700}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55700/devtoo..., se:cdpVersion: 126.0.6478.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome-headless-shell on windows (32dcc276d850dca42e84f7d3e7c79d8c)] -> xpath: //a[normalize-space()='Become a Seller']]
+Session ID: 32dcc276d850dca42e84f7d3e7c79d8c
+[INFO ] 2024-06-14 11:30:27.678 [main] SignUpTest - Started testing invalid signup functionality.
+[INFO ] 2024-06-14 11:30:34.425 [main] SignUpTest - Completed testing invalid signup functionality.
+[INFO ] 2024-06-14 11:33:51.753 [main] ProductDetailTest - Started testing product details functionality.
+[INFO ] 2024-06-14 11:33:57.785 [main] ProductDetailTest - Completed testing product details functionality.
+[INFO ] 2024-06-14 11:34:01.673 [main] DownloadOptionTest - Started testing download option for android.
+[INFO ] 2024-06-14 11:34:02.898 [main] DownloadOptionTest - Completed testing download option for android.
+[INFO ] 2024-06-14 11:34:06.152 [main] DownloadOptionTest - Started testing download option visibility for iOS device.
+[INFO ] 2024-06-14 11:34:07.459 [main] DownloadOptionTest - Completed testing download option for iOS. 
+[INFO ] 2024-06-14 11:34:10.561 [main] ForgetPasswordTest - Started testing forget password functionality.
+[ERROR] 2024-06-14 11:34:20.687 [main] ForgetPasswordTest - Error in forget password functionality.element not interactable
+  (Session info: chrome-headless-shell=126.0.6478.56)
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [828f4d42a9179529e5d067ca92f975d4, clickElement {id=f.28D6E1052C234EBD697405BA4C49C9B1.d.4D29B3141B2FF406EA930B97A7DFD430.e.99}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome-headless-shell, browserVersion: 126.0.6478.56, chrome: {chromedriverVersion: 126.0.6478.55 (7616ff175414..., userDataDir: C:\Users\KULDEE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56140}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56140/devtoo..., se:cdpVersion: 126.0.6478.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome-headless-shell on windows (828f4d42a9179529e5d067ca92f975d4)] -> xpath: //a[normalize-space()='Become a Seller']]
+Session ID: 828f4d42a9179529e5d067ca92f975d4
+[INFO ] 2024-06-14 11:34:25.038 [main] FlipkartAdvertiseTest - Started testing flipkart advertise page visibility.
+[INFO ] 2024-06-14 11:34:26.890 [main] FlipkartAdvertiseTest - Completed testing flipkart ads functionality.
+[INFO ] 2024-06-14 11:34:30.297 [main] LogoVisibility - Started testing flipkart logo visibility.
+[INFO ] 2024-06-14 11:34:30.490 [main] LogoVisibility - Completed testing logo visibility for flipkart.
+[INFO ] 2024-06-14 11:34:33.657 [main] LoginTest - Started testing user login for invalid case.
+[INFO ] 2024-06-14 11:34:37.618 [main] LoginTest - Completed testing user login for invalid case.
+[INFO ] 2024-06-14 11:34:45.356 [main] CartLoginTest - Started testing login through cart.
+[INFO ] 2024-06-14 11:34:46.891 [main] CartLoginTest - Completed testing login through cart functionality.
+[INFO ] 2024-06-14 11:34:50.283 [main] PincodeTest - Started testing valid pincode functionality.
+[INFO ] 2024-06-14 11:34:53.542 [main] PincodeTest - Completed testing valid pincode functionality.
+[INFO ] 2024-06-14 11:35:00.835 [main] PincodeTest - Started testing invalid pincode functionality.
+[INFO ] 2024-06-14 11:35:04.202 [main] PincodeTest - Completed testing invalid pincode functionality.
+[INFO ] 2024-06-14 11:35:07.653 [main] RegisterSellerTest - Started testing seller registration functionality.
+[ERROR] 2024-06-14 11:35:17.735 [main] RegisterSellerTest - error in testing seller registration functionality: element not interactable
+  (Session info: chrome-headless-shell=126.0.6478.56)
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [18006d58518c4cc0dc75d0129b0e3e4b, clickElement {id=f.CB29C1CA758F939533B11B5B2F846AB8.d.541CE709172FB9FF288295B413B2D16F.e.97}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome-headless-shell, browserVersion: 126.0.6478.56, chrome: {chromedriverVersion: 126.0.6478.55 (7616ff175414..., userDataDir: C:\Users\KULDEE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56485}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56485/devtoo..., se:cdpVersion: 126.0.6478.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome-headless-shell on windows (18006d58518c4cc0dc75d0129b0e3e4b)] -> xpath: //a[normalize-space()='Become a Seller']]
+Session ID: 18006d58518c4cc0dc75d0129b0e3e4b
+[INFO ] 2024-06-14 11:35:22.129 [main] RemoveFromCartTest - Started testing remove from cart functionality.
+[INFO ] 2024-06-14 11:35:32.445 [main] RemoveFromCartTest - Completed testing remove from cart functionality.
+[INFO ] 2024-06-14 11:35:35.860 [main] FavouritesProduct - Started testing save product to favourites.
+[INFO ] 2024-06-14 11:35:46.513 [main] FavouritesProduct - Completed testing adding to favourites product. 
+[INFO ] 2024-06-14 11:35:52.269 [main] SellerTest - Started testing seller login functionality.
+[ERROR] 2024-06-14 11:36:02.370 [main] SellerTest - Error in testing seller login functionality. element not interactable
+  (Session info: chrome-headless-shell=126.0.6478.56)
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e6478ce63c424a02feafa6dd1cc3fd8f, clickElement {id=f.9D02C3612274AACBCDCC3AAF164EE69D.d.017E1267E7E1D42E3C817061BB0AF825.e.100}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome-headless-shell, browserVersion: 126.0.6478.56, chrome: {chromedriverVersion: 126.0.6478.55 (7616ff175414..., userDataDir: C:\Users\KULDEE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56675}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56675/devtoo..., se:cdpVersion: 126.0.6478.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome-headless-shell on windows (e6478ce63c424a02feafa6dd1cc3fd8f)] -> xpath: //a[normalize-space()='Become a Seller']]
+Session ID: e6478ce63c424a02feafa6dd1cc3fd8f
+[INFO ] 2024-06-14 11:36:08.299 [main] ProductSearchTest - Started testing valid product search functionality.
+[INFO ] 2024-06-14 11:36:12.729 [main] ProductSearchTest - Completed testing valid product search functionality.
+[INFO ] 2024-06-14 11:36:16.589 [main] ProductSearchTest - Started testing invalid product search functionality.
+[INFO ] 2024-06-14 11:36:20.225 [main] ProductSearchTest - Completed testing invalid product search functionality.
+[INFO ] 2024-06-14 11:36:25.849 [main] AddToCartTest - Started testing add to cart functionality
+[INFO ] 2024-06-14 11:36:33.108 [main] AddToCartTest - Completed testing add to cart functionality successfully. 
+[INFO ] 2024-06-14 11:36:37.315 [main] CategoryDropdownTest - Started testing navigating product through category.
+[INFO ] 2024-06-14 11:36:39.144 [main] CategoryDropdownTest - Completed testing categoryDropdownTest. 
+[INFO ] 2024-06-14 11:36:43.023 [main] HelplineFunctionalityTest - Started testing helpline feature for agreeing.
+[INFO ] 2024-06-14 11:36:44.990 [main] HelplineFunctionalityTest - Completed testing helpline feature for agreeing.
+[INFO ] 2024-06-14 11:36:48.602 [main] HelplineFunctionalityTest - Started testing helpline feature for disagreeing.
+[INFO ] 2024-06-14 11:36:50.632 [main] HelplineFunctionalityTest - Completed testing helpline feature for disagreeing.
+[INFO ] 2024-06-14 11:36:53.821 [main] SignUpTest - Started testing invalid signup functionality.
+[INFO ] 2024-06-14 11:36:58.478 [main] SignUpTest - Completed testing invalid signup functionality.
+[INFO ] 2024-06-14 11:39:38.952 [main] AddToCartTest - Started testing add to cart functionality
+[INFO ] 2024-06-14 11:39:47.046 [main] AddToCartTest - Completed testing add to cart functionality successfully. 
+[INFO ] 2024-06-14 11:39:55.148 [main] DownloadOptionTest - Started testing download option for android.
+[INFO ] 2024-06-14 11:39:58.508 [main] DownloadOptionTest - Completed testing download option for android.
+[INFO ] 2024-06-14 11:40:02.654 [main] DownloadOptionTest - Started testing download option visibility for iOS device.
+[INFO ] 2024-06-14 11:40:04.077 [main] DownloadOptionTest - Completed testing download option for iOS. 
+[INFO ] 2024-06-14 11:40:11.088 [main] FlipkartAdvertiseTest - Started testing flipkart advertise page visibility.
+[INFO ] 2024-06-14 11:40:14.500 [main] FlipkartAdvertiseTest - Completed testing flipkart ads functionality.
+[INFO ] 2024-06-14 11:40:18.460 [main] ForgetPasswordTest - Started testing forget password functionality.
+[ERROR] 2024-06-14 11:40:28.591 [main] ForgetPasswordTest - Error in forget password functionality.element not interactable
+  (Session info: chrome-headless-shell=126.0.6478.56)
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [cb37d1d3f80ccafcf5a5f62354f94bce, clickElement {id=f.0A446A0B9E7311E5E5CFD702641CDB12.d.7AE6622FA906AFD2129D5195D75739A0.e.90}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome-headless-shell, browserVersion: 126.0.6478.56, chrome: {chromedriverVersion: 126.0.6478.55 (7616ff175414..., userDataDir: C:\Users\KULDEE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57572}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57572/devtoo..., se:cdpVersion: 126.0.6478.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome-headless-shell on windows (cb37d1d3f80ccafcf5a5f62354f94bce)] -> xpath: //a[normalize-space()='Become a Seller']]
+Session ID: cb37d1d3f80ccafcf5a5f62354f94bce
+[INFO ] 2024-06-14 11:40:32.445 [main] HelplineFunctionalityTest - Started testing helpline feature for agreeing.
+[INFO ] 2024-06-14 11:40:35.348 [main] HelplineFunctionalityTest - Completed testing helpline feature for agreeing.
+[INFO ] 2024-06-14 11:40:39.054 [main] HelplineFunctionalityTest - Started testing helpline feature for disagreeing.
+[INFO ] 2024-06-14 11:40:41.846 [main] HelplineFunctionalityTest - Completed testing helpline feature for disagreeing.
+[INFO ] 2024-06-14 11:40:45.395 [main] LoginTest - Started testing user login for invalid case.
+[INFO ] 2024-06-14 11:40:49.800 [main] LoginTest - Completed testing user login for invalid case.
+[INFO ] 2024-06-14 11:40:54.047 [main] PincodeTest - Started testing valid pincode functionality.
+[INFO ] 2024-06-14 11:41:02.199 [main] PincodeTest - Completed testing valid pincode functionality.
+[INFO ] 2024-06-14 11:41:06.069 [main] PincodeTest - Started testing invalid pincode functionality.
+[INFO ] 2024-06-14 11:41:09.839 [main] PincodeTest - Completed testing invalid pincode functionality.
+[INFO ] 2024-06-14 11:41:18.124 [main] ProductDetailTest - Started testing product details functionality.
+[INFO ] 2024-06-14 11:41:26.822 [main] ProductDetailTest - Completed testing product details functionality.
+[INFO ] 2024-06-14 11:41:30.981 [main] ProductSearchTest - Started testing valid product search functionality.
+[INFO ] 2024-06-14 11:41:35.369 [main] ProductSearchTest - Completed testing valid product search functionality.
+[INFO ] 2024-06-14 11:41:38.884 [main] ProductSearchTest - Started testing invalid product search functionality.
+[INFO ] 2024-06-14 11:41:42.680 [main] ProductSearchTest - Completed testing invalid product search functionality.
+[INFO ] 2024-06-14 11:41:46.823 [main] RegisterSellerTest - Started testing seller registration functionality.
+[ERROR] 2024-06-14 11:41:56.910 [main] RegisterSellerTest - error in testing seller registration functionality: element not interactable
+  (Session info: chrome-headless-shell=126.0.6478.56)
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c8ad6949514e8f1f3ec24644878eeb99, clickElement {id=f.0FB823CFC339E2D61B5CCA37777FF671.d.ACD122DD646720228206A62BA1169A61.e.97}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome-headless-shell, browserVersion: 126.0.6478.56, chrome: {chromedriverVersion: 126.0.6478.55 (7616ff175414..., userDataDir: C:\Users\KULDEE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58147}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58147/devtoo..., se:cdpVersion: 126.0.6478.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome-headless-shell on windows (c8ad6949514e8f1f3ec24644878eeb99)] -> xpath: //a[normalize-space()='Become a Seller']]
+Session ID: c8ad6949514e8f1f3ec24644878eeb99
+[INFO ] 2024-06-14 11:41:59.681 [main] SellerTest - Started testing seller login functionality.
+[ERROR] 2024-06-14 11:42:00.986 [main] SellerTest - Error in testing seller login functionality. stale element reference: stale element not found in the current frame
+  (Session info: chrome-headless-shell=126.0.6478.56)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c58d794cff5a3c07a3e44459018ea3b0, clickElement {id=f.2BE8F6F8F41367F6276A909C5453702D.d.1ACB34B1B8C56861F612F5C10A8F9BDC.e.1}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome-headless-shell, browserVersion: 126.0.6478.56, chrome: {chromedriverVersion: 126.0.6478.55 (7616ff175414..., userDataDir: C:\Users\KULDEE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58195}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58195/devtoo..., se:cdpVersion: 126.0.6478.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome-headless-shell on windows (c58d794cff5a3c07a3e44459018ea3b0)] -> xpath: //a[normalize-space()='Become a Seller']]
+Session ID: c58d794cff5a3c07a3e44459018ea3b0
+[INFO ] 2024-06-14 11:42:04.117 [main] SignUpTest - Started testing invalid signup functionality.
+[ERROR] 2024-06-14 11:42:26.280 [main] SignUpTest - error in testing invalid signup functionality: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //input[@class='r4vIwl BV+Dqf']' (tried for 10 second(s) with 500 milliseconds interval)
+[INFO ] 2024-06-14 12:35:05.810 [main] CartLoginTest - Started testing login through cart.
+[INFO ] 2024-06-14 12:37:11.942 [main] CartLoginTest - Started testing login through cart.
+[INFO ] 2024-06-14 12:50:50.646 [main] CategoryDropdownTest - Started testing navigating product through category.
+[ERROR] 2024-06-14 12:50:52.528 [main] CategoryDropdownTest - Error in navigating to product through category. : stale element reference: stale element not found in the current frame
+  (Session info: chrome=126.0.6478.56)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [288c49963edb976cd1e5bb24f6984d81, isElementDisplayed {id=f.E586FDC8D7A01C5E68FA2440D390A6C5.d.34BAFE6DB594F7FBD9B3936983040192.e.138}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.56, chrome: {chromedriverVersion: 126.0.6478.61 (8dc092df54ce..., userDataDir: C:\Users\KULDEE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51743}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51743/devtoo..., se:cdpVersion: 126.0.6478.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (288c49963edb976cd1e5bb24f6984d81)] -> class name: DByuf4]
+Session ID: 288c49963edb976cd1e5bb24f6984d81
+[INFO ] 2024-06-14 12:51:03.218 [main] CategoryDropdownTest - Started testing navigating product through category.
+[ERROR] 2024-06-14 12:51:06.774 [main] CategoryDropdownTest - Error in navigating to product through category. : stale element reference: stale element not found in the current frame
+  (Session info: chrome=126.0.6478.56)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2d2911f017f7e34b14e50879f55a3201, isElementDisplayed {id=f.543232A5EAFEC1AAB88A15A8CB281A74.d.1813AF32631180D0A7D0D0B6074F7C93.e.146}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.56, chrome: {chromedriverVersion: 126.0.6478.61 (8dc092df54ce..., userDataDir: C:\Users\KULDEE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51802}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51802/devtoo..., se:cdpVersion: 126.0.6478.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (2d2911f017f7e34b14e50879f55a3201)] -> class name: DByuf4]
+Session ID: 2d2911f017f7e34b14e50879f55a3201
+[INFO ] 2024-06-14 13:01:57.965 [main] CategoryDropdownTest - Started testing navigating product through category.
+[ERROR] 2024-06-14 13:01:59.777 [main] CategoryDropdownTest - Error in navigating to product through category. : stale element reference: stale element not found in the current frame
+  (Session info: chrome=126.0.6478.56)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [83675de43bb3741b5bd0c0f4df1b8c5a, isElementDisplayed {id=f.677D449A4A7913FFBD8A382130A557D1.d.0A61FB5A03732437BFD5630D9966BBB8.e.138}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.56, chrome: {chromedriverVersion: 126.0.6478.61 (8dc092df54ce..., userDataDir: C:\Users\KULDEE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52745}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52745/devtoo..., se:cdpVersion: 126.0.6478.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (83675de43bb3741b5bd0c0f4df1b8c5a)] -> class name: DByuf4]
+Session ID: 83675de43bb3741b5bd0c0f4df1b8c5a
+[INFO ] 2024-06-14 13:05:51.001 [main] AddToCartTest - Started testing add to cart functionality
+[INFO ] 2024-06-14 13:05:59.949 [main] AddToCartTest - Completed testing add to cart functionality successfully. 
+[INFO ] 2024-06-14 13:06:04.983 [main] CartLoginTest - Started testing login through cart.
+[INFO ] 2024-06-14 13:06:06.268 [main] CartLoginTest - Completed testing login through cart functionality.
+[INFO ] 2024-06-14 13:06:10.394 [main] CategoryDropdownTest - Started testing navigating  category.
+[INFO ] 2024-06-14 13:06:15.965 [main] CategoryDropdownTest - Completed testing categoryDropdownTest. 
+[INFO ] 2024-06-14 13:06:20.084 [main] CategoryDropdownTest - Started testing navigating product through category.
+[ERROR] 2024-06-14 13:06:22.177 [main] CategoryDropdownTest - Error in navigating to product through category. : stale element reference: stale element not found in the current frame
+  (Session info: chrome-headless-shell=126.0.6478.56)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [67d309601c737fa21e5043bc343b8e41, isElementDisplayed {id=f.DE2BE313EB6AD8FB733DD214D281BFB4.d.C23EDD27E381B8B26750CEFA02A1BD5C.e.133}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome-headless-shell, browserVersion: 126.0.6478.56, chrome: {chromedriverVersion: 126.0.6478.61 (8dc092df54ce..., userDataDir: C:\Users\KULDEE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53196}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53196/devtoo..., se:cdpVersion: 126.0.6478.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome-headless-shell on windows (67d309601c737fa21e5043bc343b8e41)] -> class name: DByuf4]
+Session ID: 67d309601c737fa21e5043bc343b8e41
+[INFO ] 2024-06-14 13:06:25.719 [main] DownloadOptionTest - Started testing download option for android.
+[INFO ] 2024-06-14 13:06:27.163 [main] DownloadOptionTest - Completed testing download option for android.
+[INFO ] 2024-06-14 13:06:30.324 [main] DownloadOptionTest - Started testing download option visibility for iOS device.
+[INFO ] 2024-06-14 13:06:31.462 [main] DownloadOptionTest - Completed testing download option for iOS. 
+[INFO ] 2024-06-14 13:06:35.602 [main] FlipkartAdvertiseTest - Started testing flipkart advertise page visibility.
+[INFO ] 2024-06-14 13:06:40.654 [main] FlipkartAdvertiseTest - Completed testing flipkart ads functionality.
+[INFO ] 2024-06-14 13:06:44.890 [main] ForgetPasswordTest - Started testing forget password functionality.
+[ERROR] 2024-06-14 13:06:55.431 [main] ForgetPasswordTest - Error in forget password functionality.Expected condition failed: waiting for visibility of [[ChromeDriver: chrome-headless-shell on windows (e4763b6b25e3c156dfa130cdf24e6501)] -> xpath: //a[normalize-space()='Become a Seller']] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome-headless-shell, browserVersion: 126.0.6478.56, chrome: {chromedriverVersion: 126.0.6478.61 (8dc092df54ce..., userDataDir: C:\Users\KULDEE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53447}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53447/devtoo..., se:cdpVersion: 126.0.6478.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e4763b6b25e3c156dfa130cdf24e6501
+[INFO ] 2024-06-14 13:07:00.100 [main] HelplineFunctionalityTest - Started testing helpline feature for agreeing.
+[INFO ] 2024-06-14 13:07:05.272 [main] HelplineFunctionalityTest - Completed testing helpline feature for agreeing.
+[INFO ] 2024-06-14 13:07:09.161 [main] HelplineFunctionalityTest - Started testing helpline feature for disagreeing.
+[INFO ] 2024-06-14 13:07:10.983 [main] HelplineFunctionalityTest - Completed testing helpline feature for disagreeing.
+[INFO ] 2024-06-14 13:07:14.699 [main] LoginTest - Started testing user login for invalid case.
+[INFO ] 2024-06-14 13:07:18.672 [main] LoginTest - Completed testing user login for invalid case.
+[INFO ] 2024-06-14 13:07:25.474 [main] PincodeTest - Started testing valid pincode functionality.
+[INFO ] 2024-06-14 13:07:29.389 [main] PincodeTest - Completed testing valid pincode functionality.
+[INFO ] 2024-06-14 13:07:33.499 [main] PincodeTest - Started testing invalid pincode functionality.
+[INFO ] 2024-06-14 13:07:36.627 [main] PincodeTest - Completed testing invalid pincode functionality.
+[INFO ] 2024-06-14 13:07:40.420 [main] ProductDetailTest - Started testing product details functionality.
+[INFO ] 2024-06-14 13:07:48.551 [main] ProductDetailTest - Completed testing product details functionality.
+[INFO ] 2024-06-14 13:07:53.217 [main] ProductSearchTest - Started testing valid product search functionality.
+[INFO ] 2024-06-14 13:07:57.421 [main] ProductSearchTest - Completed testing valid product search functionality.
+[INFO ] 2024-06-14 13:08:01.170 [main] ProductSearchTest - Started testing invalid product search functionality.
+[INFO ] 2024-06-14 13:08:05.519 [main] ProductSearchTest - Completed testing invalid product search functionality.
+[INFO ] 2024-06-14 13:08:09.039 [main] RegisterSellerTest - Started testing seller registration functionality.
+[ERROR] 2024-06-14 13:08:19.539 [main] RegisterSellerTest - error in testing seller registration functionality: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome-headless-shell on windows (27443f22a3a585114a0e1e034ce40d86)] -> xpath: //a[normalize-space()='Become a Seller']] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome-headless-shell, browserVersion: 126.0.6478.56, chrome: {chromedriverVersion: 126.0.6478.61 (8dc092df54ce..., userDataDir: C:\Users\KULDEE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54032}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54032/devtoo..., se:cdpVersion: 126.0.6478.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 27443f22a3a585114a0e1e034ce40d86
+[INFO ] 2024-06-14 13:08:24.141 [main] RemoveFromCartTest - Started testing remove from cart functionality.
+[INFO ] 2024-06-14 13:08:35.877 [main] RemoveFromCartTest - Completed testing remove from cart functionality.
+[INFO ] 2024-06-14 13:08:39.628 [main] SellerTest - Started testing seller login functionality.
+[ERROR] 2024-06-14 13:08:50.046 [main] SellerTest - Error in testing seller login functionality. Expected condition failed: waiting for visibility of [[ChromeDriver: chrome-headless-shell on windows (c4d2ac1bc772d254e8ba4aa4212a1a7e)] -> xpath: //a[normalize-space()='Become a Seller']] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome-headless-shell, browserVersion: 126.0.6478.56, chrome: {chromedriverVersion: 126.0.6478.61 (8dc092df54ce..., userDataDir: C:\Users\KULDEE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54180}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54180/devtoo..., se:cdpVersion: 126.0.6478.56, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c4d2ac1bc772d254e8ba4aa4212a1a7e
+[INFO ] 2024-06-14 13:08:54.191 [main] SignUpTest - Started testing invalid signup functionality.
+[ERROR] 2024-06-14 13:09:16.690 [main] SignUpTest - error in testing invalid signup functionality: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //input[@class='r4vIwl BV+Dqf']' (tried for 10 second(s) with 500 milliseconds interval)

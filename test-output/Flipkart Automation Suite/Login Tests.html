@@ -1,0 +1,217 @@
+<html>
+<head>
+<title>TestNG:  Login Tests</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Login Tests</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>17/1/0</td>
+</tr><tr>
+<td>Started on:</td><td>Fri Jun 14 11:07:59 IST 2024</td>
+</tr>
+<tr><td>Total time:</td><td>178 seconds (178512 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-failed'>
+<tr><td colspan='4' align='center'><b>FAILED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td><b>Attribute(s)</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='flipkartAutomate.testFiles.PincodeTest.testPincode()'><b>testPincode</b><br>Test class: flipkartAutomate.testFiles.PincodeTest</td>
+<td><div><pre>java.lang.AssertionError: expected [true] but found [false]
+	at flipkartAutomate.testFiles.PincodeTest.testPincode(PincodeTest.java:51)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+... Removed 31 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1047854468", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1047854468'><pre>java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1578)
+	at org.testng.Assert.assertTrue(Assert.java:57)
+	at org.testng.Assert.assertTrue(Assert.java:67)
+	at flipkartAutomate.testFiles.PincodeTest.testPincode(PincodeTest.java:51)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:739)
+	at org.testng.TestRunner.run(TestRunner.java:614)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+</pre></div></td>
+<td>4</td>
+<td>flipkartAutomate.testFiles.PincodeTest@fd46303</td></tr>
+</table><p>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td><b>Attribute(s)</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='flipkartAutomate.testFiles.SignUpTest.testSignUp()'><b>testSignUp</b><br>Test class: flipkartAutomate.testFiles.SignUpTest</td>
+<td></td>
+<td>4</td>
+<td>flipkartAutomate.testFiles.SignUpTest@51df223b</td></tr>
+<tr>
+<td title='flipkartAutomate.testFiles.HelplineFunctionalityTest.testHelplineDisagreeFeature()'><b>testHelplineDisagreeFeature</b><br>Test class: flipkartAutomate.testFiles.HelplineFunctionalityTest</td>
+<td></td>
+<td>1</td>
+<td>flipkartAutomate.testFiles.HelplineFunctionalityTest@495083a0</td></tr>
+<tr>
+<td title='flipkartAutomate.testFiles.PincodeTest.testIncorrectPincode()'><b>testIncorrectPincode</b><br>Test class: flipkartAutomate.testFiles.PincodeTest</td>
+<td></td>
+<td>3</td>
+<td>flipkartAutomate.testFiles.PincodeTest@fd46303</td></tr>
+<tr>
+<td title='flipkartAutomate.testFiles.RegisterSellerTest.testSellerRegistration()'><b>testSellerRegistration</b><br>Test class: flipkartAutomate.testFiles.RegisterSellerTest</td>
+<td></td>
+<td>10</td>
+<td>flipkartAutomate.testFiles.RegisterSellerTest@7c22d4f</td></tr>
+<tr>
+<td title='flipkartAutomate.testFiles.ForgetPasswordTest.testForgetPassword()'><b>testForgetPassword</b><br>Test class: flipkartAutomate.testFiles.ForgetPasswordTest</td>
+<td></td>
+<td>10</td>
+<td>flipkartAutomate.testFiles.ForgetPasswordTest@46e8a539</td></tr>
+<tr>
+<td title='flipkartAutomate.testFiles.ProductSearchTest.testInvalidSearchData()'><b>testInvalidSearchData</b><br>Test class: flipkartAutomate.testFiles.ProductSearchTest</td>
+<td></td>
+<td>3</td>
+<td>flipkartAutomate.testFiles.ProductSearchTest@28a0fd6c</td></tr>
+<tr>
+<td title='flipkartAutomate.testFiles.FlipkartAdvertiseTest.testAdvertise()'><b>testAdvertise</b><br>Test class: flipkartAutomate.testFiles.FlipkartAdvertiseTest</td>
+<td></td>
+<td>4</td>
+<td>flipkartAutomate.testFiles.FlipkartAdvertiseTest@27a5328c</td></tr>
+<tr>
+<td title='flipkartAutomate.testFiles.HelplineFunctionalityTest.testHelplineFeature()'><b>testHelplineFeature</b><br>Test class: flipkartAutomate.testFiles.HelplineFunctionalityTest</td>
+<td></td>
+<td>1</td>
+<td>flipkartAutomate.testFiles.HelplineFunctionalityTest@495083a0</td></tr>
+<tr>
+<td title='flipkartAutomate.testFiles.CartLoginTest.testCartLogin()'><b>testCartLogin</b><br>Test class: flipkartAutomate.testFiles.CartLoginTest</td>
+<td></td>
+<td>1</td>
+<td>flipkartAutomate.testFiles.CartLoginTest@60bdf15d</td></tr>
+<tr>
+<td title='flipkartAutomate.testFiles.LoginTest.testInvalidLogin()'><b>testInvalidLogin</b><br>Test class: flipkartAutomate.testFiles.LoginTest</td>
+<td></td>
+<td>4</td>
+<td>flipkartAutomate.testFiles.LoginTest@1c98290c</td></tr>
+<tr>
+<td title='flipkartAutomate.testFiles.AddToCartTest.testAddToCart()'><b>testAddToCart</b><br>Test class: flipkartAutomate.testFiles.AddToCartTest</td>
+<td></td>
+<td>6</td>
+<td>flipkartAutomate.testFiles.AddToCartTest@5f59185e</td></tr>
+<tr>
+<td title='flipkartAutomate.testFiles.ProductSearchTest.testSearchData()'><b>testSearchData</b><br>Test class: flipkartAutomate.testFiles.ProductSearchTest</td>
+<td></td>
+<td>4</td>
+<td>flipkartAutomate.testFiles.ProductSearchTest@28a0fd6c</td></tr>
+<tr>
+<td title='flipkartAutomate.testFiles.FavouritesProduct.testFavouritesProduct()'><b>testFavouritesProduct</b><br>Test class: flipkartAutomate.testFiles.FavouritesProduct</td>
+<td></td>
+<td>10</td>
+<td>flipkartAutomate.testFiles.FavouritesProduct@51e4ccb3</td></tr>
+<tr>
+<td title='flipkartAutomate.testFiles.ProductDetailTest.testProductDetails()'><b>testProductDetails</b><br>Test class: flipkartAutomate.testFiles.ProductDetailTest</td>
+<td></td>
+<td>11</td>
+<td>flipkartAutomate.testFiles.ProductDetailTest@5fd62371</td></tr>
+<tr>
+<td title='flipkartAutomate.testFiles.LogoVisibility.testFlipkartLogoVisibility()'><b>testFlipkartLogoVisibility</b><br>Test class: flipkartAutomate.testFiles.LogoVisibility</td>
+<td></td>
+<td>0</td>
+<td>flipkartAutomate.testFiles.LogoVisibility@841e575</td></tr>
+<tr>
+<td title='flipkartAutomate.testFiles.CategoryDropdownTest.testCategory()'><b>testCategory</b><br>Test class: flipkartAutomate.testFiles.CategoryDropdownTest</td>
+<td></td>
+<td>2</td>
+<td>flipkartAutomate.testFiles.CategoryDropdownTest@47da3952</td></tr>
+<tr>
+<td title='flipkartAutomate.testFiles.SellerTest.testSellerFunctionality()'><b>testSellerFunctionality</b><br>Test class: flipkartAutomate.testFiles.SellerTest</td>
+<td></td>
+<td>10</td>
+<td>flipkartAutomate.testFiles.SellerTest@464649c</td></tr>
+</table><p>
+</body>
+</html>

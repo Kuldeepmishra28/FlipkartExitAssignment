@@ -1,0 +1,8 @@
+flipkartAutomate\pages\PincodePage.class
+flipkartAutomate\pages\ProductPage.class
+flipkartAutomate\utils\ExcelUtils.class
+flipkartAutomate\pages\CartPage.class
+flipkartAutomate\utils\Config.class
+flipkartAutomate\pages\BasePage.class
+flipkartAutomate\utils\DriverManager.class
+flipkartAutomate\pages\HomePage.class
